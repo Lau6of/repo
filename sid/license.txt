@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sid (Ice Age 2)
+* source:	https://sketchfab.com/3d-models/sid-ice-age-2-86c41741da694d76a072cea55f1eb992
+* author:	gabrielsemiceki355 (https://sketchfab.com/gabrielsemiceki355)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sid (Ice Age 2)" (https://sketchfab.com/3d-models/sid-ice-age-2-86c41741da694d76a072cea55f1eb992) by gabrielsemiceki355 (https://sketchfab.com/gabrielsemiceki355) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
